@@ -33,7 +33,6 @@
      - `name`：餐廳名稱
      - `address`：餐廳地址
      - `phone`：餐廳聯絡電話
-     - ...
 
    - **評價資料表 (`reviews`)**
      - `review_id` (PK)：評價的唯一識別碼
